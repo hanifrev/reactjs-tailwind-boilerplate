@@ -40,19 +40,19 @@ export default function NavBar() {
           <ul className="flex flex-col mt-4 -mx-4 pt-4 border-t md:flex-row md:items-center md:mx-0 md:mt-0 md:pt-0 md:mr-4 lg:mr-8 md:border-0">
             <li>
               <Link to="/" className="block px-4 py-1 md:p-2 lg:px-4">
-                Inicio
+                Ghost Reveries
               </Link>
             </li>
             <li>
               <Link to="/" className="block px-4 py-1 md:p-2 lg:px-4">
-                Link
+                Watershed
               </Link>
             </li>
           </ul>
           <ul className="flex flex-col mt-4 -mx-4 pt-4 border-t md:flex-row md:items-center md:mx-0 md:ml-auto md:mt-0 md:pt-0 md:border-0">
             <li>
               <Link to="/aboutus" className="block px-4 py-1 md:p-2 lg:px-4">
-                About us
+                Blackwater Park
               </Link>
             </li>
           </ul>
